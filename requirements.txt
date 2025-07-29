@@ -1,0 +1,6 @@
+pandas>=2.2,<2.3
+numpy>=1.26,<1.27
+scikit-learn>=1.5,<1.6
+matplotlib>=3.9,<3.10
+seaborn>=0.13,<0.14
+flask>=2.0,<3.0
